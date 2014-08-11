@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>GuildfordBoroughCouncil.Linq</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Ben Cheetham</authors>
     <owners>Guildford Borough Council</owners>
     <licenseUrl>https://github.com/GuildfordBC/linq/blob/master/LICENSE.md</licenseUrl>
