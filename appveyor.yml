@@ -3,7 +3,7 @@ skip_tags: true
 assembly_info:
   patch: true
   file: '**\AssemblyInfo.*'
-  assembly_version: '1.2.{build}'
+  assembly_informational_version: "{version}"
 build:
   publish_nuget: true
   publish_nuget_symbols: true
