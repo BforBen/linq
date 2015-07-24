@@ -6,8 +6,8 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/GuildfordBC/hangfire-extensions/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/GuildfordBC/hangfire-extensions</projectUrl>
+    <licenseUrl>https://github.com/GuildfordBC/linq/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/linq</projectUrl>
     <iconUrl>http://cdn.guildford.gov.uk/assets/favicon-32x32.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
